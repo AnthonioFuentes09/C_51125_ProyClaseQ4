@@ -1,26 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dafuentes\\source\\repos\\C_51125_ProyClaseQ4\\",
+  "WorkspaceRootPath": "C:\\Users\\Dafuentes\\Documents\\GitHub\\C_51125_ProyClaseQ4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3961BF70-CE99-407B-8C49-07157D30AD1E}|C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4.csproj|c:\\users\\dafuentes\\source\\repos\\c_51125_proyclaseq4\\c_51125_proyclaseq4\\controllers\\firebasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3961BF70-CE99-407B-8C49-07157D30AD1E}|C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4.csproj|solutionrelative:c_51125_proyclaseq4\\controllers\\firebasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3961BF70-CE99-407B-8C49-07157D30AD1E}|C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4.csproj|c:\\users\\dafuentes\\source\\repos\\c_51125_proyclaseq4\\c_51125_proyclaseq4\\services\\firebaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3961BF70-CE99-407B-8C49-07157D30AD1E}|C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4.csproj|solutionrelative:c_51125_proyclaseq4\\services\\firebaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3961BF70-CE99-407B-8C49-07157D30AD1E}|C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4.csproj|c:\\users\\dafuentes\\source\\repos\\c_51125_proyclaseq4\\c_51125_proyclaseq4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3961BF70-CE99-407B-8C49-07157D30AD1E}|C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4.csproj|c:\\users\\dafuentes\\documents\\github\\c_51125_proyclaseq4\\c_51125_proyclaseq4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3961BF70-CE99-407B-8C49-07157D30AD1E}|C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4.csproj|solutionrelative:c_51125_proyclaseq4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3961BF70-CE99-407B-8C49-07157D30AD1E}|C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4.csproj|c:\\users\\dafuentes\\source\\repos\\c_51125_proyclaseq4\\c_51125_proyclaseq4\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3961BF70-CE99-407B-8C49-07157D30AD1E}|C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4.csproj|solutionrelative:c_51125_proyclaseq4\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3961BF70-CE99-407B-8C49-07157D30AD1E}|C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4.csproj|c:\\users\\dafuentes\\source\\repos\\c_51125_proyclaseq4\\c_51125_proyclaseq4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3961BF70-CE99-407B-8C49-07157D30AD1E}|C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4.csproj|solutionrelative:c_51125_proyclaseq4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,65 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FireBaseController.cs",
-              "DocumentMoniker": "C:\\Users\\Dafuentes\\source\\repos\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\Controllers\\FireBaseController.cs",
-              "RelativeDocumentMoniker": "C_51125_ProyClaseQ4\\Controllers\\FireBaseController.cs",
-              "ToolTip": "C:\\Users\\Dafuentes\\source\\repos\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\Controllers\\FireBaseController.cs",
-              "RelativeToolTip": "C_51125_ProyClaseQ4\\Controllers\\FireBaseController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA0AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T02:15:18.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dafuentes\\source\\repos\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dafuentes\\Documents\\GitHub\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\Program.cs",
               "RelativeDocumentMoniker": "C_51125_ProyClaseQ4\\Program.cs",
-              "ToolTip": "C:\\Users\\Dafuentes\\source\\repos\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\Program.cs",
+              "ToolTip": "C:\\Users\\Dafuentes\\Documents\\GitHub\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\Program.cs",
               "RelativeToolTip": "C_51125_ProyClaseQ4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T02:10:12.888Z",
+              "WhenOpened": "2025-11-09T05:01:31.245Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FirebaseServices.cs",
-              "DocumentMoniker": "C:\\Users\\Dafuentes\\source\\repos\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\Services\\FirebaseServices.cs",
-              "RelativeDocumentMoniker": "C_51125_ProyClaseQ4\\Services\\FirebaseServices.cs",
-              "ToolTip": "C:\\Users\\Dafuentes\\source\\repos\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\Services\\FirebaseServices.cs",
-              "RelativeToolTip": "C_51125_ProyClaseQ4\\Services\\FirebaseServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T02:48:35.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Dafuentes\\source\\repos\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "C_51125_ProyClaseQ4\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Dafuentes\\source\\repos\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\Properties\\launchSettings.json",
-              "RelativeToolTip": "C_51125_ProyClaseQ4\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-06T02:45:45.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Dafuentes\\source\\repos\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\appsettings.json",
-              "RelativeDocumentMoniker": "C_51125_ProyClaseQ4\\appsettings.json",
-              "ToolTip": "C:\\Users\\Dafuentes\\source\\repos\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\appsettings.json",
-              "RelativeToolTip": "C_51125_ProyClaseQ4\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-06T02:15:16.159Z"
             }
           ]
         }
