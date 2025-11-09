@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "C_51125_ProyClaseQ4.Controllers.FireBaseController",
+    "Method": "TestFireBase",
+    "RelativePath": "api/FireBase/firebase",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "C_51125_ProyClaseQ4.Controllers.FireBaseController",
+    "Method": "Test",
+    "RelativePath": "api/FireBase/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

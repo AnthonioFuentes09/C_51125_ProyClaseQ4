@@ -1,0 +1,34 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "C_51125_ProyClaseQ4",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/FireBase/firebase": {
+      "get": {
+        "tags": [
+          "FireBase"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/FireBase/test": {
+      "get": {
+        "tags": [
+          "FireBase"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
