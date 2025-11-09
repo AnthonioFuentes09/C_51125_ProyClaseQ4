@@ -1883,11 +1883,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dafuentes\\source\\repos\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4.csproj",
+      "projectUniqueName": "C:\\Users\\Dafuentes\\Documents\\GitHub\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4.csproj",
       "projectName": "C_51125_ProyClaseQ4",
-      "projectPath": "C:\\Users\\Dafuentes\\source\\repos\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4.csproj",
+      "projectPath": "C:\\Users\\Dafuentes\\Documents\\GitHub\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4.csproj",
       "packagesPath": "C:\\Users\\Dafuentes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dafuentes\\source\\repos\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\obj\\",
+      "outputPath": "C:\\Users\\Dafuentes\\Documents\\GitHub\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
