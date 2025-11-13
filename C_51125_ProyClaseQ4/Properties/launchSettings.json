@@ -17,7 +17,7 @@
       "applicationUrl": "http://localhost:5265",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\Dafuentes\\source\\repos\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\Config\\firebase-credentials.json"
+        "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\Dafuentes\\Documents\\GitHub\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\Config\\spqr-opera-base-firebase.json"
       }
     },
     "https": {
@@ -28,7 +28,7 @@
       "applicationUrl": "https://localhost:7036;http://localhost:5265",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\Dafuentes\\source\\repos\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\Config\\firebase-credentials.json"
+        "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\Dafuentes\\Documents\\GitHub\\C_51125_ProyClaseQ4\\C_51125_ProyClaseQ4\\Config\\spqr-opera-base-firebase.json"
       }
     },
     "IIS Express": {
